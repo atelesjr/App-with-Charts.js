@@ -9,8 +9,8 @@ npm run dev
 
 *Web*
 
-![Test](https://github.com/atelesjr/Natours/blob/master/img/01.PNG)
+![Test](https://github.com/atelesjr/App-with-Charts.js/blob/master/src/img/01.PNG)
 
-![Test](https://github.com/atelesjr/Natours/blob/master/img/02.PNG)
+![Test](https://github.com/atelesjr/App-with-Charts.js/blob/master/src/img/02.PNG)
 
-![Test](https://github.com/atelesjr/Natours/blob/master/img/03.PNG)
+![Test](https://github.com/atelesjr/App-with-Charts.js/blob/master/src/img/03.PNG)
