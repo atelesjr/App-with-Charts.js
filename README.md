@@ -1,4 +1,4 @@
-# Natours
+# Job test with Charts.js - Dom Rock company
 Test developed with React, Charts.js, Bootstrapp and receiving data from API Rest 
 
 #To install: 
